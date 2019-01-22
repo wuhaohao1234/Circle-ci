@@ -1,0 +1,23 @@
+{
+  "name": "Circle-ci",
+  "version": "1.0.0",
+  "description": "持续集成Circle-ci",
+  "main": "start.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuhaohao1234/Circle-ci.git"
+  },
+  "keywords": [],
+  "author": "wuhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuhaohao1234/Circle-ci/issues"
+  },
+  "homepage": "https://github.com/wuhaohao1234/Circle-ci#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
